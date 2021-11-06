@@ -1,10 +1,6 @@
 package vehicleapp;
 
-/* 
- * Name: Sarvess Veeriyah
- * Matrix No: CB20146
- * Section: 02 | 3B 
-*/
+
 
 //Declare 
 public class Vehicle {
